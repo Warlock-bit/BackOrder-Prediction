@@ -103,7 +103,7 @@ The Code is written in Python 3.7.5. If you don't have Python installed you can 
 pip install -r requirements.txt
 ```
 ## Directory Tree 
-![](EDA/Directory_Tree.png)
+![](https://github.com/Warlock-bit/BackOrder-Prediction/blob/master/EDA/Directory_Tree.PNG)
 
 ## Technologies & Tools Used
 1. Pandas
